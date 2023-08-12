@@ -1,0 +1,21 @@
+{
+  "name": "theme-twitter",
+  "displayName": "Twitter Theme",
+  "description": "Twitter Theme for Visual Studio Code",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Twitter Theme (Lights Out - BLUE)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LightsOut/Blue.json"
+      }
+    ]
+  }
+}

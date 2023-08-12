@@ -1,0 +1,10 @@
+*.vsix
+.DS_STORE
+.vscode
+.vscodeignore
+.vscode/**
+.vscode-test/**
+
+CHANGELOG.md
+node_modules
+vsc-extension-quickstart.md
