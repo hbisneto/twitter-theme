@@ -1,10 +1,10 @@
 {
-  "name": "theme-twitter",
-  "displayName": "Twitter Theme",
-  "description": "Twitter Theme for Visual Studio Code",
-  "version": "1.0.0",
+  "name": "twitter",
+  "displayName": "Twitter",
+  "description": "Twitter Theme For Visual Studio Code",
+  "version": "0.0.1",
   "engines": {
-    "vscode": "^1.81.0"
+    "vscode": "*"
   },
   "categories": [
     "Themes"
@@ -15,6 +15,31 @@
         "label": "Twitter Theme (Lights Out - BLUE)",
         "uiTheme": "vs-dark",
         "path": "./themes/LightsOut/Blue.json"
+      },
+      {
+        "label": "Twitter Theme (Lights Out - YELLOW)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LightsOut/Yellow.json"
+      },
+      {
+        "label": "Twitter Theme (Lights Out - PINK)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LightsOut/Pink.json"
+      },
+      {
+        "label": "Twitter Theme (Lights Out - PURPLE)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LightsOut/Purple.json"
+      },
+      {
+        "label": "Twitter Theme (Lights Out - ORANGE)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LightsOut/Orange.json"
+      },
+      {
+        "label": "Twitter Theme (Lights Out - Green)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LightsOut/Green.json"
       }
     ]
   }
