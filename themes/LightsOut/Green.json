@@ -1,5 +1,5 @@
 {
-	"name": "Green",
+	"name": "Twitter Theme",
 	"colors": {
 		"badge.background": "#00BA7C",
 		"button.background": "#00BA7C",
@@ -74,11 +74,10 @@
 		"menu.selectionBackground": "#454545",
 		"list.highlightForeground": "#92c353",
 		"editor.selectionBackground": "#00BA7C80",
-		"editorLink.activeForeground": "#1D9BF0",
+		"editorLink.activeForeground": "#00BA7C",
 		"activityBar.inactiveForeground": "#9d9d9d",
 		"editor.selectionHighlightBackground": "#65656580"
 	},
-	
 	"tokenColors": [
 		{
 			"name": "Function declarations",

@@ -1,10 +1,11 @@
 {
-  "name": "twitter",
-  "displayName": "Twitter",
-  "description": "Twitter Theme For Visual Studio Code",
-  "version": "0.0.1",
+  "name": "twitter-theme",
+  "displayName": "%displayName%",
+  "description": "%description%",
+  "publisher": "BisnetoInc",
+  "version": "1.0.0",
   "engines": {
-    "vscode": "*"
+    "vscode": "^1.81.0"
   },
   "categories": [
     "Themes"
@@ -12,34 +13,34 @@
   "contributes": {
     "themes": [
       {
-        "label": "Twitter Theme (Lights Out - BLUE)",
+        "label": "%LightsOutBlue%",
         "uiTheme": "vs-dark",
         "path": "./themes/LightsOut/Blue.json"
       },
       {
-        "label": "Twitter Theme (Lights Out - YELLOW)",
+        "label": "%LightsOutGreen%",
         "uiTheme": "vs-dark",
-        "path": "./themes/LightsOut/Yellow.json"
+        "path": "./themes/LightsOut/Green.json"
       },
       {
-        "label": "Twitter Theme (Lights Out - PINK)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/LightsOut/Pink.json"
-      },
-      {
-        "label": "Twitter Theme (Lights Out - PURPLE)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/LightsOut/Purple.json"
-      },
-      {
-        "label": "Twitter Theme (Lights Out - ORANGE)",
+        "label": "%LightsOutOrange%",
         "uiTheme": "vs-dark",
         "path": "./themes/LightsOut/Orange.json"
       },
       {
-        "label": "Twitter Theme (Lights Out - Green)",
+        "label": "%LightsOutPink%",
         "uiTheme": "vs-dark",
-        "path": "./themes/LightsOut/Green.json"
+        "path": "./themes/LightsOut/Pink.json"
+      },
+      {
+        "label": "%LightsOutPurple%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LightsOut/Purple.json"
+      },
+      {
+        "label": "%LightsOutYellow%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LightsOut/Yellow.json"
       }
     ]
   }

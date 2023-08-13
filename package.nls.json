@@ -1,0 +1,11 @@
+{
+    "displayName":"Twitter Theme",
+    "description":"Twitter Theme for Visual Studio Code",
+    
+    "LightsOutBlue":"Twitter Lights Out (Blue)",
+    "LightsOutGreen":"Twitter Lights Out (Green)",
+    "LightsOutOrange":"Twitter Lights Out (Orange)",
+    "LightsOutPink":"Twitter Lights Out (Pink)",
+    "LightsOutPurple":"Twitter Lights Out (Purple)",
+    "LightsOutYellow":"Twitter Lights Out (Yellow)"
+}
