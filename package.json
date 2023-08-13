@@ -13,6 +13,37 @@
   "contributes": {
     "themes": [
       {
+        "label": "%DefaultBlue%",
+        "uiTheme": "vs",
+        "path": "./themes/Default/Blue.json"
+      },
+      {
+        "label": "%DefaultGreen%",
+        "uiTheme": "vs",
+        "path": "./themes/Default/Green.json"
+      },
+      {
+        "label": "%DefaultOrange%",
+        "uiTheme": "vs",
+        "path": "./themes/Default/Orange.json"
+      },
+      {
+        "label": "%DefaultPink%",
+        "uiTheme": "vs",
+        "path": "./themes/Default/Pink.json"
+      },
+      {
+        "label": "%DefaultPurple%",
+        "uiTheme": "vs",
+        "path": "./themes/Default/Purple.json"
+      },
+      {
+        "label": "%DefaultYellow%",
+        "uiTheme": "vs",
+        "path": "./themes/Default/Yellow.json"
+      },
+      
+      {
         "label": "%LightsOutBlue%",
         "uiTheme": "vs-dark",
         "path": "./themes/LightsOut/Blue.json"

@@ -14,3 +14,8 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+## Known Issues
+
+- Set ```editorIndentGuide.activeBackground1``` to accent color inside all the color themes.
+- "sideBar.foreground":"#1A1A1A",

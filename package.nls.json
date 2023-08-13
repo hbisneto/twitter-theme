@@ -2,6 +2,13 @@
     "displayName":"Twitter Theme",
     "description":"Twitter Theme for Visual Studio Code",
     
+    "DefaultBlue":"Twitter Blue",
+    "DefaultGreen":"Twitter Green",
+    "DefaultOrange":"Twitter Orange",
+    "DefaultPink":"Twitter Pink",
+    "DefaultPurple":"Twitter Purple",
+    "DefaultYellow":"Twitter Yellow",
+    
     "LightsOutBlue":"Twitter Lights Out (Blue)",
     "LightsOutGreen":"Twitter Lights Out (Green)",
     "LightsOutOrange":"Twitter Lights Out (Orange)",
