@@ -41,6 +41,36 @@
         "label": "%LightsOutYellow%",
         "uiTheme": "vs-dark",
         "path": "./themes/LightsOut/Yellow.json"
+      },
+      {
+        "label": "%DimBlue%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dim/Blue.json"
+      },
+      {
+        "label": "%DimGreen%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dim/Green.json"
+      },
+      {
+        "label": "%DimOrange%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dim/Orange.json"
+      },
+      {
+        "label": "%DimPink%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dim/Pink.json"
+      },
+      {
+        "label": "%DimPurple%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dim/Purple.json"
+      },
+      {
+        "label": "%DimYellow%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dim/Yellow.json"
       }
     ]
   }
