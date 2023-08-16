@@ -9,17 +9,17 @@
     "DefaultPurple":"Twitter Purple",
     "DefaultYellow":"Twitter Yellow",
     
-    "LightsOutBlue":"Twitter Lights Out (Blue)",
-    "LightsOutGreen":"Twitter Lights Out (Green)",
-    "LightsOutOrange":"Twitter Lights Out (Orange)",
-    "LightsOutPink":"Twitter Lights Out (Pink)",
-    "LightsOutPurple":"Twitter Lights Out (Purple)",
-    "LightsOutYellow":"Twitter Lights Out (Yellow)",
-
     "DimBlue":"Twitter Dim (Blue)",
     "DimGreen":"Twitter Dim (Green)",
     "DimOrange":"Twitter Dim (Orange)",
     "DimPink":"Twitter Dim (Pink)",
     "DimPurple":"Twitter Dim (Purple)",
-    "DimYellow":"Twitter Dim (Yellow)"
+    "DimYellow":"Twitter Dim (Yellow)",
+
+    "LightsOutBlue":"Twitter Lights Out (Blue)",
+    "LightsOutGreen":"Twitter Lights Out (Green)",
+    "LightsOutOrange":"Twitter Lights Out (Orange)",
+    "LightsOutPink":"Twitter Lights Out (Pink)",
+    "LightsOutPurple":"Twitter Lights Out (Purple)",
+    "LightsOutYellow":"Twitter Lights Out (Yellow)"
 }
