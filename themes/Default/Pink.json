@@ -18,6 +18,7 @@
 		"titleBar.activeBackground": "#F91880",
 		"inputValidation.infoBorder": "#F91880",
 		"minimap.selectionHighlight": "#F91880",
+		"editor.lineHighlightBorder": "#F9188080",
 		"titleBar.inactiveBackground": "#F91880",
 		"activityBarBadge.background": "#F91880",
 		"editorLink.activeForeground": "#F91880",
@@ -56,7 +57,6 @@
 		"editor.foreground": "#000000",
 		"editorCursor.foreground": "#000000",
 		"menu.selectionForeground": "#000000",
-		"editor.lineHighlightBorder": "#00000080",
 		"editorIndentGuide.activeBackground1":"#000000",
 		
 		"focusBorder": "#C4C4C4",
