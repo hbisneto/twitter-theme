@@ -22,104 +22,105 @@
 		"progressBar.background": "#1D9BF0",
 		"extensionButton.prominentBackground": "#1D9BF0",
 		"extensionButton.prominentHoverBackground": "#1D9BF0",
-		
-		// EDITOR SUGGESTION
+		"terminal.border": "#1D9BF0",
+		"terminal.selectionBackground": "#1D9BF080",
+		"terminal.dropBackground":"#1D9BF080",
 		"editorSuggestWidget.border": "#1D9BF0",
-		"editorSuggestWidget.background":"#FFF",
-		"editorSuggestWidget.foreground":"#14171A",
-		
-		// PEEKVIEW
 		"peekView.border": "#1D9BF080",
-		"peekViewEditor.background":"#FFF",
 		"peekViewTitle.background": "#1D9BF080",
-		"peekViewResult.background": "#EBEBEB",
 		"peekViewResult.selectionBackground": "#1D9BF0",
+		"activityBar.foreground": "#1D9BF0",
+		"activityBar.activeFocusBorder": "#1D9BF0",
+		"activityBarBadge.background": "#1D9BF0",
+		"editorLineNumber.activeForeground": "#1D9BF0",
+		"editor.foldBackground": "#1D9BF080", // Quando o código é escondido/agrupado por função
+		"editorGroup.dropBackground": "#1D9BF080",
+		"editorGroupHeader.noTabsBackground": "#1D9BF080",
+		"editor.lineHighlightBackground": "#1D9BF020",
+		"editor.lineHighlightBorder": "#1D9BF080",
+		"editorIndentGuide.activeBackground":"#1D9BF0",
+		"panelSectionHeader.background": "#1D9BF080",
+		"list.activeSelectionBackground": "#1D9BF0", // #C2C2C2
+		"list.inactiveSelectionBackground": "#1D9BF080",
+		"pickerGroup.foreground": "#1D9BF0",
+		"minimap.selectionHighlight": "#1D9BF080",
+		"quickInputList.focusBackground": "#1D9BF080", // Código selecionado enquanto escreve
+		"list.dropBackground": "#1D9BF0",
+		
+		
+		"terminal.foreground": "#14171A",
+		"editorIndentGuide.background":"#14171A",
+		"editorSuggestWidget.foreground":"#14171A",
 		"peekViewResult.lineForeground": "#14171A",
 		"peekViewResult.hoverForeground": "#14171A",
 		"peekViewResult.fileForeground": "#14171A",
-		"peekViewResult.matchHighlightBackground": "#FFFF00",
-		
-		// ACTIVITYBAR
-		"activityBar.background": "#FFF",
-		"activityBar.foreground": "#1D9BF0",
-		"activityBar.activeFocusBorder": "#1D9BF0",
-		"activityBar.activeBackground": "#FFF",
 		"activityBar.inactiveForeground": "#14171A",
-		"activityBarBadge.background": "#1D9BF0",
-		"activityBarBadge.foreground": "#FFF",
-
-		//StatusBar
 		"statusBarItem.remoteBackground": "#14171A",
-
-		// Tab
-		"tab.activeBackground": "#FFF", // 454990
-		"tab.activeForeground": "#000", // FFF
-		"tab.inactiveBackground": "#ebebeb",
-		"tab.inactiveForeground": "#14171A",
-		// SideBar
-		"sideBar.background": "#EBEBEB",
 		"sideBar.foreground": "#14171A",
-
-		// Editor
-		"editorGroupHeader.tabsBackground": "#EBEBEB", // Tab Header Background
-		"editor.background": "#FFF", // #e0e0e0
-		"editorGroup.border": "#f0f0f0",
 		"editorCursor.foreground": "#14171A",
 		"editor.foreground": "#14171A",
-		"editorLineNumber.foreground": "#696969",
-		"editorLineNumber.activeForeground": "#1D9BF0",
-		"editor.foldBackground": "#1D9BF00", // Quando o código é escondido/agrupado por função
-		"editorIndentGuide.background":"#14171A",
-		"editorGroup.dropBackground": "#1D9BF080",
-		"editorGroupHeader.noTabsBackground": "#1D9BF080",
-		"editorHoverWidget.background": "#EBEBEB",
 		"editorHoverWidget.foreground": "#14171A", // Cor de textos (quando o mouse está em cima)
+		"icon.foreground": "#14171A",		
+		"panelSectionHeader.foreground": "#14171A",
+		"list.highlightForeground": "#14171A", // Código selecionado no box
+		"tab.inactiveForeground": "#14171A",
+
 		
-		"editorWidget.background": "#FFF", // #EBEBEB -- Alertas/Avisos da janela (Fundo)
+		"tab.activeForeground": "#000", // FFF
 		"editorWidget.foreground": "#000", // #696969 -- Alertas e avisos da janela (fonte)
-		"editor.lineHighlightBackground": "#1D9BF020",
-		"editor.lineHighlightBorder": "#1D9BF080",
+		"dropdown.foreground": "#000",
+		"input.foreground": "#000", // Cor de texto (Find/Replace)
+		"menu.selectionForeground": "#000",
+		"list.hoverForeground": "#000",
+
+
+		"terminal.background":"#FFF",
+		"editorSuggestWidget.background":"#FFF",
+		"peekViewEditor.background":"#FFF",
+		"activityBar.background": "#FFF",
+		"activityBar.activeBackground": "#FFF",
+		"activityBarBadge.foreground": "#FFF",
+		"tab.activeBackground": "#FFF", // 454990
+		"editor.background": "#FFF", // #e0e0e0
+		"editorWidget.background": "#FFF", // #EBEBEB -- Alertas/Avisos da janela (Fundo)
+		"menu.background": "#FFF",
+		"list.activeSelectionForeground": "#FFF",
+		"list.inactiveSelectionForeground": "#FFF",
+		"badge.foreground":"#FFF",
+
+		
+		"peekViewResult.background": "#EBEBEB",
+		"peekViewResult.matchHighlightBackground": "#FFFF00",
+		
+		// Tab
+		"tab.inactiveBackground": "#ebebeb",
+		// SideBar
+		"sideBar.background": "#EBEBEB",
+		
+		// Editor
+		"editorGroupHeader.tabsBackground": "#EBEBEB", // Tab Header Background
+		"editorGroup.border": "#f0f0f0",
+		"editorLineNumber.foreground": "#696969",
+		"editorHoverWidget.background": "#EBEBEB",
+		
 		"editor.hoverHighlightBackground": "#ADD6FF",
 		"editor.selectionHighlightBackground": "#ADD6FF",
 
 		"editorLink.activeForeground": "#0000FF",
-		"editorIndentGuide.activeBackground":"#1D9BF0",
-
-
 
 		"dropdown.background": "#DBDBDB", // #DBDBDB
-		"dropdown.foreground": "#000",
 		"input.background": "#EBEBEB", // Cor de fundo (Find/Replace)
-		"input.foreground": "#000", // Cor de texto (Find/Replace)
 		"input.placeholderForeground": "#696969", // Cor de texto (Find/Replace) Quando não há texto inserido
-		"menu.background": "#FFF",
 		"menu.foreground": "#696969",
-		"menu.selectionForeground": "#000",
 		"menu.selectionBackground": "#C2C2C2",
 		"titleBar.activeForeground": "#CCC",
 		"titleBar.inactiveForeground": "#CCC",
 		
-		"icon.foreground": "#14171A",		
-		"panelSectionHeader.background": "#ff0000", // MUDAR AQUI
-		"terminal.foreground": "#14171A",
-		"terminal.selectionBackground": "#1D9BF080",
 		
 		"list.hoverBackground": "#C2C2C2", // List Hover Background e0e0e0
-		"list.hoverForeground": "#000",
-		"list.activeSelectionBackground": "#1D9BF0", // #C2C2C2
-		"list.activeSelectionForeground": "#FFF",
-		"list.inactiveSelectionBackground": "#1D9BF080",
-		"list.inactiveSelectionForeground": "#FFF",
-		"list.highlightForeground": "#14171A", // Código selecionado no box
-
-		"pickerGroup.foreground": "#1D9BF0",
+		
 		"errorForeground": "#FF0000",
-		"badge.foreground":"#FFF",
-		"selection.background": "#ADD6FF40",
-		"minimap.selectionHighlight": "#1D9BF080",
-		"terminal.border": "#1D9BF0",
-		"quickInputList.focusBackground": "#1D9BF080", // Código selecionado enquanto escreve
-		"list.dropBackground": "#1D9BF0"
+		"selection.background": "#ADD6FF40"
 	},
 	
 	"tokenColors": [
